@@ -1,0 +1,8 @@
+{
+  "txtTableDataInput": "#jsondata",
+  "btnRefreshTable": "#refreshtable",
+  "btnClick": "details summary",
+  "tableColoumnName": "tr td:nth-child(1)",
+  "tableColoumnAge": "tr td:nth-child(2)",
+  "tableColoumnGender": "tr td:nth-child(3)"
+}
